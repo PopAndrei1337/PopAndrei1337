@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pop Andrei.
 - 👀 I’m interested in studying new technologies applied in computer science.
-- 🌱 I’m currently learning Node.js and more precisely Express, a web application framework.
 - 💞️ I’m looking to collaborate on any projects that make use of the following programming languages: C++; Java; or, in due time, JavaScript;
 - 📫 My main email adress is: andrei.pop1337@gmail.com 
 
